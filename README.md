@@ -15,3 +15,8 @@ HTML: A estrutura básica da página, onde tudo acontece.
 CSS: O responsável por deixar tudo bonitinho e organizado, com cores e estilos.
 JavaScript: A inteligência por trás da pesquisa! Ele busca pelas séries que você quer e mostra os resultados.
 Bootstrap Icons: Deixamos a página mais bonita com alguns ícones legais.
+
+
+
+link: https://pagina-de-busca-dev-flix.vercel.app/
+
